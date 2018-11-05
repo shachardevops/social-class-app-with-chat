@@ -1,0 +1,10 @@
+export const ADD_ARRIVAL = 'ADD_ARRIVAL';
+export const SEARCH_ARRIVALS_BY_DATE = 'SEARCH_ARRIVALS_BY_DATE';
+export const SET_TOKEN = 'AUTH_SET_TOKEN';
+export const REMOVE_TOKEN = 'AUTH_REMOVE_TOKEN';
+export const UI_START_LOADING = 'UI_START_LOADING';
+export const UI_STOP_LOADING = 'UI_STOP_LOADING';
+export const SET_CLASS_ROOMS = 'SET_CLASS_ROOMS';
+export const SET_USER = 'SET_USER';
+export const SET_ARRIVALS = 'SET_ARRIVALS';
+export const ARRIVED = 'ARRIVED';
